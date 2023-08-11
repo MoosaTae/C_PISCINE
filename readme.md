@@ -1,18 +1,23 @@
 # C Piscine @Bangkok 42, Kmitl
 This repository contains coding developed at 42bangkok C piscine, from 04/jun/2023 to 30/jun/2023.
 
-## Skills developed at C Piscine
+## Skills developed 🖥️
 
 ### Hard-skills
-- C Language
-- Shell
-- Git
-
+    - C Language 
+        Master the C programming language, covering basics to advanced concepts, enhancing your problem-solving abilities and low-level programming skills.
+    - Shell
+        Become proficient in using the command-line interface, navigating directories, automating tasks with shell scripts, and managing systems effectively.
+    - Git
+        Gain expertise in version control with Git, learning to manage codebase, collaborate on projects, and resolve conflicts efficiently.
 
 ### Soft-skills
-- Self-learning (No teacher)
-- Teamwork (rush project)
-- Time management (24/7)
+    - Self-learning (No teacher)
+        Develop strong self-learning skills as you tackle challenges without traditional teachers, becoming adept at research and quick concept acquisition.
+    - Teamwork (rush project)
+        Experience collaborative rush projects, honing your teamwork, communication, and task delegation skills for effective group work.
+    - Time management (24/7)
+        Refine time management in the 24/7 piscine environment, mastering task prioritization, goal setting, and productivity under pressure.
 
 ## Curriculum
 
