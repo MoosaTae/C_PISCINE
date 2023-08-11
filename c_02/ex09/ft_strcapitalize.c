@@ -6,7 +6,7 @@
 /*   By: sawongpr <sawongpr@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/10 19:16:28 by sawongpr          #+#    #+#             */
-/*   Updated: 2023/06/14 19:06:56 by sawongpr         ###   ########.fr       */
+/*   Updated: 2023/06/14 19:04:03 by sawongpr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -54,7 +54,7 @@ char	*ft_strcapitalize(char *str)
 
 // int	main(void)
 // {
-// 	char str[] = "SAlUt, comment tu vas ? 42mots";
+// 	char str[] = "SAlUt, comment tu vas ? 42mots quarante-deux; cinquante+et+un";
 // 	printf("%s",ft_strcapitalize(str));
 // 	return (1);
 // }

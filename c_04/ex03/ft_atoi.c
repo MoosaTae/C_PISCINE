@@ -6,11 +6,11 @@
 /*   By: sawongpr <sawongpr@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/12 20:29:52 by sawongpr          #+#    #+#             */
-/*   Updated: 2023/06/16 10:05:05 by sawongpr         ###   ########.fr       */
+/*   Updated: 2023/06/12 20:52:33 by sawongpr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-// #include <stdio.h>
+#include <stdio.h>
 
 int	ft_atoi(char *str)
 {
